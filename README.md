@@ -25,6 +25,8 @@ Fluent Icons
 Prettier
 
 🍣 : Plug:
+![2image](https://user-images.githubusercontent.com/78899891/221252757-9eadf2f9-ae65-4bfb-bcdd-7e33c132d1e6.png)
+![1image](https://user-images.githubusercontent.com/78899891/221252429-53f18cd3-4e59-4b66-82a2-c09fcbfecc9f.png)
 
 Auto Close Tag
 
@@ -47,8 +49,6 @@ Kite VSC
 Git Project manager
 
 Git Graph
-![2image](https://user-images.githubusercontent.com/78899891/221252757-9eadf2f9-ae65-4bfb-bcdd-7e33c132d1e6.png)
-![1image](https://user-images.githubusercontent.com/78899891/221252429-53f18cd3-4e59-4b66-82a2-c09fcbfecc9f.png)
 # 🍱 Starpage
 [Link](https://iwnuplynottyan.github.io/dots/)
 ![ST](https://cdn.discordapp.com/attachments/993183466231435364/1075836664737447946/image.png)
