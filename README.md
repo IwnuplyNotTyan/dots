@@ -14,6 +14,8 @@
 # 🧇 Wallpaper
 ![Wall](https://media.discordapp.net/attachments/993183466231435364/1075501594319273984/IMG_20230215_185554_667.jpg)
 # VSCodium
+![2image](https://user-images.githubusercontent.com/78899891/221252757-9eadf2f9-ae65-4bfb-bcdd-7e33c132d1e6.png)
+![1image](https://user-images.githubusercontent.com/78899891/221252429-53f18cd3-4e59-4b66-82a2-c09fcbfecc9f.png)
 🫐 : Theme:
 
 Sonokai
@@ -25,8 +27,6 @@ Fluent Icons
 Prettier
 
 🍣 : Plug:
-![2image](https://user-images.githubusercontent.com/78899891/221252757-9eadf2f9-ae65-4bfb-bcdd-7e33c132d1e6.png)
-![1image](https://user-images.githubusercontent.com/78899891/221252429-53f18cd3-4e59-4b66-82a2-c09fcbfecc9f.png)
 
 Auto Close Tag
 
