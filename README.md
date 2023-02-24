@@ -14,6 +14,7 @@
 # 🧇 Wallpaper
 ![Wall](https://media.discordapp.net/attachments/993183466231435364/1075501594319273984/IMG_20230215_185554_667.jpg)
 # 🍱 Starpage
+[Link](https://iwnuplynottyan.github.io/dots/)
 ![ST](https://cdn.discordapp.com/attachments/993183466231435364/1075836664737447946/image.png)
 # 🐱 Tree
 **.config/waybar/**
