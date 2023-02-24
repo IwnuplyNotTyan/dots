@@ -1,0 +1,50 @@
+{
+	// Emmet
+	"emmet.triggerExpansionOnTab": true,
+	// Live Server https://github.com/ritwickdey/vscode-live-server-plus-plus
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	//Discord Rich Present 	ext install LeonardSSH.vscord
+	"vscord.app.name": "VSCodium",
+	"vscord.status.details.text.viewing": "🍣 : In {workspace} {problems}",
+	"vscord.status.details.text.noWorkSpaceText": "🌸 : No Workspace",
+	"vscord.status.details.text.notInFile": "🌸 : Not In A File!",
+	"vscord.status.details.text.idle": "🥢 : Noting",
+	"vscord.status.details.text.editing": "🍣 : In {workspace} {problems}",
+	"vscord.status.state.text.editing": "🥢 : Working On {file_name}{file_extension}:{current_line}:{current_column}",
+	"vscord.status.buttons.button1.active.url": "https://github.com/IwnuplyNotTyan",
+	"vscord.status.state.text.noWorkspaceFound": "🥢 : No workspace.",
+	"vscord.status.state.text.viewing": "🥢 :  Viewing {file_name}{file_extension}",
+	"vscord.status.state.text.idle": "🍚  : Idle",
+	"vscord.status.state.text.debugging": "🍚 : Debugging: {workspace}",
+	"vscord.status.details.text.debugging": "🍚 : Debugging {file_name}{file_extension}",
+	// Style
+	"workbench.iconTheme": "rose-pine-icons", //Rose Pine
+	"workbench.colorTheme": "Sonokai Shusia", //Sonokai
+	"workbench.productIconTheme": "fluent-icons", //Icons
+	"editor.fontSize": 15,
+	"editor.minimap.enabled": false,
+	"editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+	"breadcrumbs.enabled": false,
+	"editor.renderControlCharacters": true,
+	"editor.tabSize": 2,
+	"workbench.activityBar.visible": false,
+	"editor.hover.enabled": false,
+	"terminal.integrated.fontSize": 15,
+	"editor.renderWhitespace": "boundary",
+	"editor.lineHeight": 23,
+	"editor.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.detectIndentation": false,
+	"editor.folding": false,
+	"editor.glyphMargin": false,
+	"editor.parameterHints.enabled": false,
+	"ecsstractor_port.add_comment": false,
+	"ecsstractor_port.empty_line_before_nested_selector": false,
+	"security.workspace.trust.enabled": false,
+	"editor.insertSpaces": false,
+	"editor.linkedEditing": true,
+	"editor.bracketPairColorization.enabled": true,
+	"workbench.startupEditor": "newUntitledFile", // Startup Screen
+	"files.defaultLanguage": "txt" // Default Language In New File
+}
